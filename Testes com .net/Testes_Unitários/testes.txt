@@ -1,0 +1,44 @@
+Criando um pequeno projeto com teste unitário, usando Xunit.
+
+Script para criar esse cenário:
+
+Criar dois diretórios 'Classe' e 'ClasseTestes' > 
+Na classe, criar um um novo projeto (dotnet new console) >
+Nos testes, criar um novo projeto de teste (dotnet new xunit)
+
+Adicionar os projetos em uma solução. (No visual Studio Code, através da extensão 'solution-explorar' criar uma nova solução, adicionar os dois projetos existentes (csproj).
+No proj de testes, adicionar a referencia para o projeto da classe (botão direito, add reference).
+
+Implementar a classe com o método da calculadora;
+Criar o cenário de teste.
+
+*Boa prática:
+- Uma classe de teste para cada classe: Calculadora -> CalculadoraTests
+- O nome do método deve ser muito bem descritivo, fazer entender o que o método está destando.
+
+
+**Metodologia para escrever o método
+1-Arrange
+Serve para montar o cenário. 
+Nesse caso vamos somar 5 com 10, então precisamos disponibilizar esse número para ele e preparar o cenário.
+
+2-Act
+Tendo o cenário, chamamos a ação. Nesse caso, o somar.
+
+3-Assert
+Validar o resultado esperado. Já tendo feto a ação, com assert vamos validar se retornou 15, se é o esperado.
+
+
+
+
+
+
+
+
+
+=mar
+=terre
+Container
+-Se n, remover o fleg 
+
+carga Solta

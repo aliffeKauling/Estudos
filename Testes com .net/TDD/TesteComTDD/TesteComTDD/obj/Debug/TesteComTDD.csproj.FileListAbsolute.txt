@@ -1,0 +1,7 @@
+C:\Users\aliffe.kauling\Desktop\Estudos Asp.Net Core\TDD\TesteComTDD\TesteComTDD\bin\Debug\TesteComTDD.exe.config
+C:\Users\aliffe.kauling\Desktop\Estudos Asp.Net Core\TDD\TesteComTDD\TesteComTDD\bin\Debug\TesteComTDD.exe
+C:\Users\aliffe.kauling\Desktop\Estudos Asp.Net Core\TDD\TesteComTDD\TesteComTDD\bin\Debug\TesteComTDD.pdb
+C:\Users\aliffe.kauling\Desktop\Estudos Asp.Net Core\TDD\TesteComTDD\TesteComTDD\obj\Debug\TesteComTDD.csproj.AssemblyReference.cache
+C:\Users\aliffe.kauling\Desktop\Estudos Asp.Net Core\TDD\TesteComTDD\TesteComTDD\obj\Debug\TesteComTDD.csproj.CoreCompileInputs.cache
+C:\Users\aliffe.kauling\Desktop\Estudos Asp.Net Core\TDD\TesteComTDD\TesteComTDD\obj\Debug\TesteComTDD.exe
+C:\Users\aliffe.kauling\Desktop\Estudos Asp.Net Core\TDD\TesteComTDD\TesteComTDD\obj\Debug\TesteComTDD.pdb
